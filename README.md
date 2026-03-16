@@ -49,4 +49,3 @@ Não deixe que o estresse do dia a dia defina como você se sente. Baixe o **Rel
 
 Ao preencher as informações no console da Play Store, certifique-se de que a categoria seja **"Estilo de Vida"** ou **"Saúde e Fitness"**.
 
-**Gostaria que eu criasse agora algumas sugestões de frases motivacionais ou categorias de meditação para você já incluir no conteúdo do app?**
